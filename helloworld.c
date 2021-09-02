@@ -1,4 +1,2 @@
-int i;
-printf("input number :");
-scanf("%d", &i);
+int i = 1;
 printf("Helloworld! %d\n", i );
