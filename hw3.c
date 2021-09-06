@@ -1,4 +1,4 @@
-int sum = 0, i;
+int sum = 0, i; //git commit
 printf("input number : ");
 scnaf("%d", i);
 for(; i <= 10; i++){
