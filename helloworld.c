@@ -1,2 +1,4 @@
 int i = 1;
-printf("Helloworld! %d\n", i );
+printf("Input number :");
+scanf("%d",i);
+pirintf("Helloworld! %d\n", i );
